@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi, I'm William 👋
+
+I'm a computer engineering student @ UWaterloo.
+
+Passionate about:
+  - Machine Learning
+  - Control Theory & Robotics
+  - Emerging technologies in software & hardware
+
+Personal hobbies:
+  - Hiking & Running
+  - Travelling
 
 <!--
 **WilliamZhang20/WilliamZhang20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
