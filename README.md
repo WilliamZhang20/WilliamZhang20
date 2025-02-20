@@ -1,6 +1,6 @@
 ## Hi, I'm William 👋
 
-I'm a computer engineering student @ UWaterloo.
+I'm a computer engineering student @ the University of Waterloo.
 
 Passionate about:
   - Machine Learning
