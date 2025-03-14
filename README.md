@@ -11,8 +11,6 @@ Personal hobbies:
   - Hiking & Running
   - Travelling
 
-![](https://komarev.com/ghpvc/?username=WilliamZhang20)
-
 <!--
 **WilliamZhang20/WilliamZhang20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
