@@ -3,13 +3,15 @@
 I'm a computer engineering student @ the University of Waterloo.
 
 Passionate about:
-  - Machine Learning
+  - Machine Learning & Parallel Computing
   - Control Theory & Robotics
   - Emerging technologies in software & hardware
 
 Personal hobbies:
   - Hiking & Running
   - Travelling
+
+![visitor counter](https://komarev.com/ghpvc/?username=WilliamZhang20)   
 
 <!--
 **WilliamZhang20/WilliamZhang20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
