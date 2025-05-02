@@ -3,9 +3,9 @@
 I'm a computer engineering student @ the University of Waterloo.
 
 Passionate about:
-  - Machine Learning & Parallel Computing
+  - Machine Learning
   - Control Theory & Robotics
-  - Emerging technologies in software & hardware
+  - Computer Architecture
 
 Personal hobbies:
   - Hiking & Running
