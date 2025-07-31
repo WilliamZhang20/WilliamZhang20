@@ -11,6 +11,8 @@ Personal hobbies:
   - Hiking & Running
   - Travelling
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=williamzhang20&layout=compact&langs_count=6)
+
 ![visitor counter](https://komarev.com/ghpvc/?username=WilliamZhang20)   
 
 <!--
