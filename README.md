@@ -11,6 +11,8 @@ Personal hobbies:
   - Hiking & Running
   - Travelling
 
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamZhang20&layout=compact&langs_count=6)
+
 <!--
 **WilliamZhang20/WilliamZhang20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
